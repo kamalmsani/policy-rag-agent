@@ -20,7 +20,13 @@ if question:
 
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            answer = ask(question)
+            try:
+                answer = ask(question)
+            except Exception:
+                answer = (
+                    "Sorry, I could not get an answer right now. "
+                    "Please check your internet connection and try again."
+                )
         st.write(answer)
 
     st.session_state.messages.append({"role": "assistant", "content": answer})
