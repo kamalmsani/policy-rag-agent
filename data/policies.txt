@@ -6,4 +6,49 @@ Sick Leave: Employees get 10 days of paid sick leave per year. A medical certifi
 
 Dress Code: Business casual is expected Monday to Thursday. Casual clothes are allowed on Fridays.
 
-Expense Claims: Work expenses must be submitted within 14 days with receipts attached. Claims are paid at the end of the month.
+Expense Claims: Work expenses must be submitted within 14 days with receipts attached. Claims are paid at the end of the month.Nigerian companies typically structure their employee handbooks around the **Nigerian Labour Act**, the **Pension Reform Act**, and local workplace practices.
+
+### 1. Attendance & Working Hours
+
+1. **Resumption & Closing Hours:** Standard corporate workdays usually run from 8:00 AM to 5:00 PM, Monday through Friday.
+2. **Lateness & Punctuality Policy:** Defines grace periods (often 10–15 minutes) and disciplinary actions—such as queries or salary deductions—for habitual tardiness.
+3. **Attendance & Clock-In Policy:** Requires staff to log arrival and departure times via biometric scanners, access cards, or digital HR portals.
+4. **Remote & Hybrid Work Policy:** Outlines eligibility, core availability hours, and communication expectations for working from home.
+5. **Overtime & Public Holiday Work Policy:** Details approval processes and compensation (extra pay or time off in lieu) for working beyond standard hours or on federal public holidays.
+
+### 2. Leave & Time Off
+
+6. **Annual Leave Policy:** Mandates paid vacation (the Nigerian Labour Act stipulates a minimum of 6 working days after 12 months of continuous service, though corporate firms typically offer 15 to 25 days).
+7. **Sick Leave Policy:** Covers paid time off for illness, usually requiring a medical certificate from an approved hospital or HMO for absences exceeding 2 days.
+8. **Maternity Leave Policy:** Grants at least 12 weeks of paid leave (6 weeks before and 6 weeks after delivery) at a minimum of 50% pay under the Labour Act, with many private companies offering 12–16 weeks at 100% pay.
+9. **Paternity Leave Policy:** Provides paid time off (typically 5 to 14 working days) for new fathers following the birth of a child.
+10. **Compassionate / Bereavement Leave:** Offers 3 to 5 days of paid leave upon the death of an immediate family member.
+11. **Casual & Emergency Leave:** Allows short-notice time off for urgent personal matters, often deducted from annual leave balances.
+12. **Study & Exam Leave Policy:** Grants paid or unpaid days off for employees sitting for approved professional exams (e.g., ICAN, CIPM, NIM).
+
+### 3. Compensation, Benefits & Finance
+
+13. **Payroll & Salary Administration Policy:** Specifies pay dates (commonly the 25th–30th of the month) and statutory deductions (PAYE tax, NHF, NSITF).
+14. **Pension Scheme Policy:** Complies with the Pension Reform Act (minimum 10% employer and 8% employee contribution to a Retirement Savings Account).
+15. **Health Maintenance Organization (HMO) Policy:** Outlines medical insurance coverage tiers for employees, spouses, and dependents.
+16. **13th-Month Bonus & Performance Bonus Policy:** Clarifies eligibility, pro-rata calculations, and discretionary criteria for year-end or performance-based payouts.
+17. **Expense Reimbursement & Travel Policy:** Sets per diem rates, transport allowances, and receipt requirements for business trips and client entertainment.
+18. **Staff Loan & Salary Advance Policy:** Defines eligibility criteria, maximum borrowing limits, and repayment schedules for emergency loans or rent advances.
+
+### 4. Workplace Conduct & Ethics
+
+19. **Code of Conduct & Business Ethics:** Establishes standards for integrity, professionalism, and representing the company externally.
+20. **Anti-Bribery & Anti-Corruption Policy:** Prohibits offering or accepting kickbacks, facilitation payments, or unauthorized gifts from vendors and government officials.
+21. **Conflict of Interest Policy:** Requires staff to disclose outside business interests, side hustles, or relationships with competitors and suppliers.
+22. **Dress Code & Grooming Policy:** Specifies formal corporate wear (Monday–Thursday) and smart casual / traditional attire ("Native Friday").
+23. **Anti-Harassment & Non-Discrimination Policy:** Protects employees against workplace bullying, sexual harassment, and discrimination based on gender, ethnicity, religion, or disability.
+24. **Drug, Alcohol & Smoke-Free Workplace Policy:** Prohibits the possession or use of alcohol and illicit substances on company premises or during work hours.
+
+### 5. Security, IT & Operations
+
+25. **Confidentiality & Non-Disclosure (NDA) Policy:** Restricts sharing proprietary data, client lists, and trade secrets during and after employment.
+26. **Data Protection & NDPA Compliance Policy:** Governs how staff handle customer and employee personal data in compliance with the Nigeria Data Protection Act (NDPA).
+27. **IT & Acceptable Use Policy:** Regulates the use of company laptops, official emails, internet bandwidth, and unauthorized software installations.
+28. **Social Media & External Communication Policy:** Prohibits staff from speaking to the press or posting confidential company matters on social media without authorization.
+29. **Health, Safety & Environment (HSE) Policy:** Outlines fire safety drills, first-aid procedures, and workplace hazard reporting.
+30. **Disciplinary, Grievance & Exit Policy:** Details the progressive disciplinary process (verbal warning, written query, suspension, termination), how employees can report grievances, and notice periods/handover rules upon resignation.
