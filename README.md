@@ -3,7 +3,7 @@ Live demo: https://kamal-policy-assistant.streamlit.app/
 
 An AI agent with a Streamlit chat page. It answers questions about company policies by searching a text file and using a Groq language model.
 
-## How it works
+## How it works (Architecture)
 
 1. `data/policies.txt` holds the company policies.
 2. The text is cut into small chunks and turned into numbers (embeddings).
