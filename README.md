@@ -1,4 +1,5 @@
 # Company Policy Assistant
+Live demo: https://kamal-policy-assistant.streamlit.app/
 
 An AI agent with a Streamlit chat page. It answers questions about company policies by searching a text file and using a Groq language model.
 
