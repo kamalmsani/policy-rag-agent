@@ -32,3 +32,8 @@ An AI agent with a Streamlit chat page. It answers questions about company polic
 
 - Never share your `.env` file or upload it to GitHub.
 - If you see a "model not found" error, choose another model name in `rag/config.py`.
+
+## Limitations
+
+- Amswers come only from data/policies.txt, so the assistant cannot amswer questions the file does not cover.
+- wrong amswers are possible: the AI model can misread a policy, so important decisions should be checked with HR.
